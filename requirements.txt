@@ -1,0 +1,7 @@
+sys
+os
+json
+bs4
+requests
+pyQt5
+shutil
