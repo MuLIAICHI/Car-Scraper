@@ -2,9 +2,13 @@
 
 Welcome to the documentation for the Car Scraper project! This project is an application built in Python using the PyQT5 library to create a Graphical User Interface (GUI) for scraping a cars website and extracting details in the form of a JSON file. This documentation will provide an overview of the project structure, installation instructions, and usage guidelines.
 
-## Demo Video
+## Demo Image 📷
 
-📺 Before we dive into the details, check out our exciting demo video to see the Car Scraper in action! [Demo Video Link](insert_demo_video_link_here)
+Take a look at the demo image below:
+
+![Demo Image](./images/app.png)
+
+This image provides a visual representation of the Car Scraper application in action. Please note that it is for illustrative purposes and doesn't contain interactive elements like the actual application. To experience the full functionality, please follow the installation and usage instructions mentioned earlier.
 
 ## Project Structure 📂
 
